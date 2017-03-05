@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Japanese Ushuzumi(thin black ink)-color -->
+    <color name="colorPrimary">#A3A3A2</color>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorBlack_trans">#54000A02</color>
+    <color name="colorGreen_trans">#547BAA17</color>
+    <color name="colorBlue_trans">#54224B8F</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+
+</resources>

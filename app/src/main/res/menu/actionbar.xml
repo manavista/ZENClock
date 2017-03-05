@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_color_id"
+        android:title="@string/menu_color_label"
+        compat:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_about_id"
+        android:title="@string/menu_about_label"
+        compat:showAsAction="never"/>
+
+</menu>

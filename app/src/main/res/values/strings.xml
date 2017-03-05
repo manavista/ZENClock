@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ZEN Clock</string>
+
+    <string name="menu_color_label">Color...</string>
+    <string name="menu_about_label">About...</string>
+
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_apply">Apply</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string name="dialog_about_version">version</string>
+
+    <string name="dialog_color_title">Select a Color</string>
+    <string name="dialog_color_black">Usuzumi(thin black ink)</string>
+    <string name="dialog_color_green">Ryuryoku(fresh green)</string>
+    <string name="dialog_color_blue">Rurikon(lapis lazuli)</string>
+
+    <string name="key_clock_color">clock_color_id</string>
+
+    <string name="space_half">" "</string>
+</resources>
